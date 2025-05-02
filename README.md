@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wofkof
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ3YzJnazAxNm81b3E5Z2VtcnVlaHlkcjF5bzgwOXJweDBibzZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQHDtnUZ7gxI4/giphy.gif" width="1000" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ3YzJnazAxNm81b3E5Z2VtcnVlaHlkcjF5bzgwOXJweDBibzZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQHDtnUZ7gxI4/giphy.gif" width="700" />
 </p>
 
 ## 🚀 About Me
@@ -20,4 +20,5 @@
 ## 📊 GitHub Stats
 
 ![Wofkof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wofkof&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofkof&layout=compact&theme=tokyonight)
