@@ -20,4 +20,8 @@
 ## 📊 GitHub Stats
 
 ![Wofkof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wofkof&show_icons=true&theme=tokyonight)
-[![Wofkof's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wofkof&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+## 📈 Contribution Graph
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofkof&layout=compact&theme=tokyonight)
