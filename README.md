@@ -20,5 +20,4 @@
 ## 📊 GitHub Stats
 
 ![Wofkof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wofkof&show_icons=true&theme=tokyonight)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofkof&layout=compact&theme=tokyonight)
