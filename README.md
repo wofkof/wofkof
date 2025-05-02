@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wofkof
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKxOh5yW0VvGdfO/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ3YzJnazAxNm81b3E5Z2VtcnVlaHlkcjF5bzgwOXJweDBibzZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQHDtnUZ7gxI4/giphy.gif)" width="500"/>
+  <img src="https://media.giphy.com/media/3o7TKxOh5yW0VvGdfO/giphy.gif" width="500"/>
 </p>
 
 ## 🚀 About Me
